@@ -1,0 +1,7 @@
+
+        Los agentes de IA son sistemas de software que pueden percibir su entorno, tomar decisiones y actuar para lograr objetivos específicos.
+        Un agente utiliza modelos de lenguaje (LLMs) como su "cerebro" para procesar información y tomar decisiones.
+        Los multiagentes son sistemas donde varios agentes especializados colaboran para resolver tareas complejas.
+        Cada agente puede tener un rol específico: búsqueda de información, análisis, creatividad, etc.
+        El flujo típico incluye: recibir una solicitud, planificar, ejecutar acciones mediante herramientas, y entregar resultados.
+        

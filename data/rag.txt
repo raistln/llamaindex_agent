@@ -1,0 +1,7 @@
+
+        RAG (Retrieval Augmented Generation) es una técnica que combina la recuperación de información con la generación de texto.
+        En un sistema RAG, cuando se recibe una consulta, primero se buscan documentos o fragmentos relevantes en una base de conocimiento.
+        Luego, estos fragmentos se proporcionan como contexto a un modelo de lenguaje para generar una respuesta informada.
+        RAG mejora la precisión de las respuestas al proporcionar información específica y actualizada.
+        También ayuda a reducir las "alucinaciones" o la generación de información incorrecta por parte de los modelos.
+        
